@@ -1,0 +1,121 @@
+red, plane, none, true, red
+red, plane, none, true, red
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+blue, plane, none, true, blue
+blue, plane, none, true, blue
+red, plane, none, true, red
+red, plane, none, true, red
+grey, none, none, false
+black, move, 2, false
+red, TD, none, false
+blue, move, none, false
+green, move, 1, false
+blue, TD, none, false
+grey, none, none, false
+blue, plane, none, true, blue
+blue, plane, none, true, blue
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+blue, move, 2, false
+grey, none, none, false
+blue, move, none, false
+grey, none, none, false
+black, TD, none, false
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+red, move, 2, false
+black, TD, none, false
+red, move, 2, false
+grey, none, none, false
+blue, move, none, false
+grey, none, none, false
+green, TD, none, false
+red, TD, none, false
+green, move, 1, false
+grey, none, none, false
+grey, none, none, false
+black, move, 1, false
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+blue, move, none, false
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+blue, move, 2, false
+grey, none, none, false
+grey, none, none, false
+red, TD, none, false
+red, move, none, false
+red, move, none, false
+red, move, none, false
+grey, none, none, false
+black, move, none, false
+black, move, none, false
+black, move, none, false
+black, move, none, false
+grey, none, none, false
+grey, none, none, false
+blue, TD, none, false
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+green, move, none, false
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+green, move, 1, false
+grey, none, none, false
+grey, none, none, false
+green, TD, none, false
+red, move, 2, false
+black, TD, none, false
+grey, none, none, false
+green, move, none, false
+grey, none, none, false
+black, TD, none, false
+blue, move, 2, false
+black, move, 1, false
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+blue, TD, none, false
+grey, none, none, false
+green, move, none, false
+grey, none, none, false
+red, move, 1, false
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+green, plane, none, true, green
+green, plane, none, true, green
+grey, none, none, false
+green, move, 2, false
+red, TD, none, false
+green, move, none, false
+blue, TD, none, false
+green, move, 1, false
+grey, none, none, false
+black, plane, none, true, black
+black, plane, none, true, black
+green, plane, none, true, green
+green, plane, none, true, green
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+grey, none, none, false
+black, plane, none, true, black
+black, plane, none, true, black
